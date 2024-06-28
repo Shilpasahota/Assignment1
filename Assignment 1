@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HOBBY OF CHOICE</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>HOBBY OF CHOICE</h1></h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="index.html">COOKING</a></li>
+            <li><a href="about.html">PAINTING</a></li>
+            <li><a href="contact.html">DANCING</a></li>
+        </ul>
+    </nav>
+        <p> HOBBY OF CHOICE</p>
+<section>
+    <h2>My Hobbies</h2>
+    <article>
+        <h3>painting</h3>
+        <p>painting improve skills as well as it shows emotions.</p>
+        <h3>dancing</h3>
+        <p>dancing gives relaxation.</p>
+    </article>
+    <h2>Materials Needed</h2>
+    <ul>
+        <li>ART TOOLS</li>
+        <li>PAINT AND BRUSH</li>
+        <li>PAPER</li>
+    </ul>
+    <h2>Steps to Get Started</h2>
+    <ol>
+        <li>DECIDE WHAT YOU WANT TO PAINT FIRST</li>
+        <li>CREATE YOUR FIRST PAINTING</li>
+        <li>REVIEW AND IMPROVE</li></li>
+    </ol>
+</section>
+<h2><strong>Painting</strong> Basics</h2>
+<p>painting is an <em>art</em> form that allows you to capture moments .</p>
+<table>
+    <thead>
+        <tr>
+            <th>Painting Model</th>
+            <th>Type</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>colorwork</td>
+            <td>realism</td>
+            <td>$3899</td>1
+        </tr>
+        <tr>
+            <td>landscape</td>
+            <td>modernism</td>
+            <td>$2999</td>
+        </tr>
+    </tbody>
+</table>
+<form action="submit_form.php" method="post">
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name" required><br><br>
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" required><br><br>
+    <label for="message">Message:</label><br>
+    <textarea id="message" name="message" rows="4" required></textarea><br><br>
+    <button type="submit">Submit</button>
+</form>
+<img src="https://i.pinimg.com/564x/bd/43/b9/bd43b976dd51eae8e88815126e6dcab8.jpg" alt="PAINTING">
+<audio controls>
+    <source src="https://youtu.be/CqW3ZMc6ECQ" type="https://youtu.be/CqW3ZMc6ECQ">
+</audio>
+<video controls>
+    <source src="https://youtu.be/CqW3ZMc6ECQ" type="https://youtu.be/CqW3ZMc6ECQ">
+</video>
+</body>
+</html>
